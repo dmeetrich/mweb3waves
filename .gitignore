@@ -4,6 +4,7 @@
 
 ### Node ###
 package-lock.json
+.vscode
 
 # Logs
 logs
